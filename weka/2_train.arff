@@ -1,6 +1,6 @@
 @RELATION train
 
-@ATTRIBUTE	age	INTEGER
+@ATTRIBUTE	age	REAL
 @ATTRIBUTE	city_group	{Big_Cities,Other}
 @ATTRIBUTE	type	{DT,FC,IL,MB}
 @ATTRIBUTE	p1	REAL

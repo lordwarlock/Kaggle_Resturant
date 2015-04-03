@@ -1,3 +1,5 @@
 1	p1-37 in log space
 2	p1-37 and age in log space
 3	normal
+4	FC = 1,other = 0,normal
+5	FC = 1, age in log space

@@ -1,0 +1,6720 @@
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.24 seconds
+Time taken to test model on training data: 0.11 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2491
+Mean absolute error                1645386.7037
+Root mean squared error            2521455.0444
+Relative absolute error                 96.487  %
+Root relative squared error             97.0869 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.25 seconds
+Time taken to test model on training data: 0.13 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2947
+Mean absolute error                1672975.6668
+Root mean squared error            2473035.995 
+Relative absolute error                 99.5235 %
+Root relative squared error             96.1646 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 0.98 seconds
+Time taken to test model on training data: 0.09 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2188
+Mean absolute error                1645178.9961
+Root mean squared error            2526589.996 
+Relative absolute error                 96.8556 %
+Root relative squared error             97.6114 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.08 seconds
+Time taken to test model on training data: 0.11 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2955
+Mean absolute error                1640967.9493
+Root mean squared error            2491577.1959
+Relative absolute error                 97.8069 %
+Root relative squared error             96.4653 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.06 seconds
+Time taken to test model on training data: 0.09 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2793
+Mean absolute error                1693240.4377
+Root mean squared error            2515254.7084
+Relative absolute error                 99.7787 %
+Root relative squared error             96.8655 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 0.99 seconds
+Time taken to test model on training data: 0.11 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.3223
+Mean absolute error                1638171.7428
+Root mean squared error            2437066.5938
+Relative absolute error                 96.5124 %
+Root relative squared error             94.151  %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.11 seconds
+Time taken to test model on training data: 0.11 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2559
+Mean absolute error                1728564.8953
+Root mean squared error            2553469.477 
+Relative absolute error                102.2334 %
+Root relative squared error             98.7099 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.02 seconds
+Time taken to test model on training data: 0.11 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.3207
+Mean absolute error                1665706.4956
+Root mean squared error            2434610.6482
+Relative absolute error                 97.2865 %
+Root relative squared error             93.3036 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.05 seconds
+Time taken to test model on training data: 0.14 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.3447
+Mean absolute error                1606875.3453
+Root mean squared error            2426192.7417
+Relative absolute error                 95.0128 %
+Root relative squared error             93.9739 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.27 seconds
+Time taken to test model on training data: 0.09 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2875
+Mean absolute error                1629906.9432
+Root mean squared error            2460935.1527
+Relative absolute error                 96.9651 %
+Root relative squared error             95.1042 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.08 seconds
+Time taken to test model on training data: 0.13 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.215 
+Mean absolute error                1662934.8908
+Root mean squared error            2522023.2724
+Relative absolute error                 97.8555 %
+Root relative squared error             97.7696 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.05 seconds
+Time taken to test model on training data: 0.13 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.3306
+Mean absolute error                1645086.3018
+Root mean squared error            2437362.9922
+Relative absolute error                 96.1985 %
+Root relative squared error             93.6594 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.2 seconds
+Time taken to test model on training data: 0.11 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.3131
+Mean absolute error                1657911.9794
+Root mean squared error            2466774.4464
+Relative absolute error                 97.8398 %
+Root relative squared error             95.4589 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.17 seconds
+Time taken to test model on training data: 0.14 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2353
+Mean absolute error                1647246.5671
+Root mean squared error            2520514.426 
+Relative absolute error                 97.6907 %
+Root relative squared error             97.2396 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.07 seconds
+Time taken to test model on training data: 0.13 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.3451
+Mean absolute error                1584583.8146
+Root mean squared error            2416105.6858
+Relative absolute error                 93.8192 %
+Root relative squared error             93.4875 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.12 seconds
+Time taken to test model on training data: 0.13 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.3325
+Mean absolute error                1672003.1075
+Root mean squared error            2437549.668 
+Relative absolute error                 99.6979 %
+Root relative squared error             94.8809 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.03 seconds
+Time taken to test model on training data: 0.1 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.3028
+Mean absolute error                1619041.9793
+Root mean squared error            2449584.8752
+Relative absolute error                 95.5083 %
+Root relative squared error             94.4942 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.18 seconds
+Time taken to test model on training data: 0.17 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2805
+Mean absolute error                1605310.5924
+Root mean squared error            2469776.7201
+Relative absolute error                 93.7229 %
+Root relative squared error             94.9561 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.11 seconds
+Time taken to test model on training data: 0.13 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2563
+Mean absolute error                1668280.6369
+Root mean squared error            2514584.9177
+Relative absolute error                 99.1189 %
+Root relative squared error             97.4234 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.02 seconds
+Time taken to test model on training data: 0.12 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.3133
+Mean absolute error                1623416.1222
+Root mean squared error            2451804.3453
+Relative absolute error                 96.7849 %
+Root relative squared error             95.222  %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.2 seconds
+Time taken to test model on training data: 0.09 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.3069
+Mean absolute error                1630539.2351
+Root mean squared error            2461502.6163
+Relative absolute error                 96.9353 %
+Root relative squared error             95.8555 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.22 seconds
+Time taken to test model on training data: 0.12 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.286 
+Mean absolute error                1687228.5415
+Root mean squared error            2491859.3001
+Relative absolute error                100.108  %
+Root relative squared error             96.8491 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.26 seconds
+Time taken to test model on training data: 0.14 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.3127
+Mean absolute error                1655774.9344
+Root mean squared error            2458772.4106
+Relative absolute error                 98.4282 %
+Root relative squared error             95.2951 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.11 seconds
+Time taken to test model on training data: 0.13 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.307 
+Mean absolute error                1658857.7257
+Root mean squared error            2452403.4239
+Relative absolute error                 98.5229 %
+Root relative squared error             95.1794 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.1 seconds
+Time taken to test model on training data: 0.1 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.3056
+Mean absolute error                1672919.2115
+Root mean squared error            2478875.1258
+Relative absolute error                 99.6311 %
+Root relative squared error             96.4597 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.13 seconds
+Time taken to test model on training data: 0.11 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2173
+Mean absolute error                1652669.5112
+Root mean squared error            2520548.6009
+Relative absolute error                 97.6276 %
+Root relative squared error             97.4421 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.1 seconds
+Time taken to test model on training data: 0.1 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.3071
+Mean absolute error                1655046.6428
+Root mean squared error            2480263.4802
+Relative absolute error                 98.5023 %
+Root relative squared error             96.4633 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 0.96 seconds
+Time taken to test model on training data: 0.09 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2978
+Mean absolute error                1670202.0162
+Root mean squared error            2484080.0554
+Relative absolute error                 98.761  %
+Root relative squared error             96.2162 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.06 seconds
+Time taken to test model on training data: 0.12 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.3679
+Mean absolute error                1557715.3476
+Root mean squared error            2387644.7798
+Relative absolute error                 92.6842 %
+Root relative squared error             92.3775 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.02 seconds
+Time taken to test model on training data: 0.11 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2285
+Mean absolute error                1633868.0291
+Root mean squared error            2505713.2739
+Relative absolute error                 94.8158 %
+Root relative squared error             96.3235 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 0.99 seconds
+Time taken to test model on training data: 0.13 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.3461
+Mean absolute error                1593805.4062
+Root mean squared error            2410218.5941
+Relative absolute error                 94.2247 %
+Root relative squared error             93.0356 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.29 seconds
+Time taken to test model on training data: 0.11 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2886
+Mean absolute error                1698163.1882
+Root mean squared error            2498501.451 
+Relative absolute error                 98.0148 %
+Root relative squared error             95.5418 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.11 seconds
+Time taken to test model on training data: 0.11 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.3199
+Mean absolute error                1589170.4998
+Root mean squared error            2438153.402 
+Relative absolute error                 94.4096 %
+Root relative squared error             94.925  %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.4 seconds
+Time taken to test model on training data: 0.12 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2852
+Mean absolute error                1677691.0326
+Root mean squared error            2480013.6901
+Relative absolute error                 97.8703 %
+Root relative squared error             94.806  %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.02 seconds
+Time taken to test model on training data: 0.12 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2914
+Mean absolute error                1637297.4733
+Root mean squared error            2468107.6184
+Relative absolute error                 96.1251 %
+Root relative squared error             95.0646 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.11 seconds
+Time taken to test model on training data: 0.12 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.1853
+Mean absolute error                1726644.4271
+Root mean squared error            2562815.2473
+Relative absolute error                101.1748 %
+Root relative squared error             97.9598 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.07 seconds
+Time taken to test model on training data: 0.12 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2988
+Mean absolute error                1625368.091 
+Root mean squared error            2459868.0863
+Relative absolute error                 95.0291 %
+Root relative squared error             94.0832 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.2 seconds
+Time taken to test model on training data: 0.1 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2781
+Mean absolute error                1647722.0081
+Root mean squared error            2477848.3174
+Relative absolute error                 97.8437 %
+Root relative squared error             96.2913 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.17 seconds
+Time taken to test model on training data: 0.13 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2821
+Mean absolute error                1643950.0175
+Root mean squared error            2498664.2258
+Relative absolute error                 97.6042 %
+Root relative squared error             96.2985 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.12 seconds
+Time taken to test model on training data: 0.11 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2555
+Mean absolute error                1637117.4202
+Root mean squared error            2500119.1209
+Relative absolute error                 96.821  %
+Root relative squared error             96.135  %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.12 seconds
+Time taken to test model on training data: 0.13 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.3318
+Mean absolute error                1622501.1241
+Root mean squared error            2426022.0804
+Relative absolute error                 95.8958 %
+Root relative squared error             93.8878 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.11 seconds
+Time taken to test model on training data: 0.12 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.3033
+Mean absolute error                1685878.3157
+Root mean squared error            2488833.1643
+Relative absolute error                100.0697 %
+Root relative squared error             96.5493 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 0.99 seconds
+Time taken to test model on training data: 0.13 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.274 
+Mean absolute error                1597211.9715
+Root mean squared error            2479606.51  
+Relative absolute error                 95.0082 %
+Root relative squared error             95.6684 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.03 seconds
+Time taken to test model on training data: 0.11 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.3304
+Mean absolute error                1622245.5195
+Root mean squared error            2432032.4894
+Relative absolute error                 95.6679 %
+Root relative squared error             93.7943 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.06 seconds
+Time taken to test model on training data: 0.14 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.3341
+Mean absolute error                1591284.8423
+Root mean squared error            2420133.4542
+Relative absolute error                 93.8495 %
+Root relative squared error             93.7863 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.04 seconds
+Time taken to test model on training data: 0.11 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.33  
+Mean absolute error                1628749.3586
+Root mean squared error            2434879.8474
+Relative absolute error                 96.6348 %
+Root relative squared error             94.5768 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.1 seconds
+Time taken to test model on training data: 0.09 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2201
+Mean absolute error                1687609.7289
+Root mean squared error            2525461.75  
+Relative absolute error                 98.96   %
+Root relative squared error             97.2222 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1 seconds
+Time taken to test model on training data: 0.15 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2779
+Mean absolute error                1621686.0012
+Root mean squared error            2495356.9367
+Relative absolute error                 94.5697 %
+Root relative squared error             96.321  %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.24 seconds
+Time taken to test model on training data: 0.12 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.215 
+Mean absolute error                1695828.5802
+Root mean squared error            2549833.3159
+Relative absolute error                 99.5392 %
+Root relative squared error             98.3621 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.18 seconds
+Time taken to test model on training data: 0.13 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2757
+Mean absolute error                1647246.4054
+Root mean squared error            2486980.8692
+Relative absolute error                 97.4602 %
+Root relative squared error             95.3178 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.25 seconds
+Time taken to test model on training data: 0.11 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.3447
+Mean absolute error                1620001.3684
+Root mean squared error            2417033.581 
+Relative absolute error                 95.5804 %
+Root relative squared error             93.6854 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.55 seconds
+Time taken to test model on training data: 0.25 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2963
+Mean absolute error                1666829.1701
+Root mean squared error            2502047.0307
+Relative absolute error                 96.3224 %
+Root relative squared error             95.2719 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.23 seconds
+Time taken to test model on training data: 0.14 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.3193
+Mean absolute error                1620626.587 
+Root mean squared error            2440558.0221
+Relative absolute error                 95.6395 %
+Root relative squared error             94.3278 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.18 seconds
+Time taken to test model on training data: 0.14 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.209 
+Mean absolute error                1718393.3792
+Root mean squared error            2545239.7359
+Relative absolute error                100.103  %
+Root relative squared error             97.5721 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.25 seconds
+Time taken to test model on training data: 0.12 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.3324
+Mean absolute error                1642309.686 
+Root mean squared error            2432337.9022
+Relative absolute error                 96.79   %
+Root relative squared error             94.0802 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.26 seconds
+Time taken to test model on training data: 0.12 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2773
+Mean absolute error                1656672.2302
+Root mean squared error            2493522.6306
+Relative absolute error                 98.8214 %
+Root relative squared error             96.5844 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.04 seconds
+Time taken to test model on training data: 0.13 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2587
+Mean absolute error                1672063.0682
+Root mean squared error            2514170.0378
+Relative absolute error                 98.2266 %
+Root relative squared error             97.1916 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.24 seconds
+Time taken to test model on training data: 0.12 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2802
+Mean absolute error                1658964.3855
+Root mean squared error            2481922.0553
+Relative absolute error                 97.1907 %
+Root relative squared error             95.5587 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.05 seconds
+Time taken to test model on training data: 0.13 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.3167
+Mean absolute error                1629084.5608
+Root mean squared error            2440950.9147
+Relative absolute error                 95.4906 %
+Root relative squared error             94.0749 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.14 seconds
+Time taken to test model on training data: 0.11 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2192
+Mean absolute error                1705348.6257
+Root mean squared error            2543568.4968
+Relative absolute error                100.777  %
+Root relative squared error             98.5079 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1 seconds
+Time taken to test model on training data: 0.11 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2955
+Mean absolute error                1662846.7024
+Root mean squared error            2470860.8873
+Relative absolute error                 97.696  %
+Root relative squared error             95.0766 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.11 seconds
+Time taken to test model on training data: 0.11 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.3372
+Mean absolute error                1583994.5194
+Root mean squared error            2418894.0421
+Relative absolute error                 93.8273 %
+Root relative squared error             94.0026 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1 seconds
+Time taken to test model on training data: 0.1 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2842
+Mean absolute error                1667328.6289
+Root mean squared error            2483431.3446
+Relative absolute error                 98.2212 %
+Root relative squared error             95.4733 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 0.98 seconds
+Time taken to test model on training data: 0.11 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2684
+Mean absolute error                1624040.2722
+Root mean squared error            2490685.9038
+Relative absolute error                 96.2132 %
+Root relative squared error             96.3681 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.06 seconds
+Time taken to test model on training data: 0.11 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2728
+Mean absolute error                1651718.728 
+Root mean squared error            2498530.2833
+Relative absolute error                 98.0193 %
+Root relative squared error             96.952  %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.01 seconds
+Time taken to test model on training data: 0.12 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2521
+Mean absolute error                1714163.221 
+Root mean squared error            2523367.8411
+Relative absolute error                 98.8948 %
+Root relative squared error             95.9492 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.01 seconds
+Time taken to test model on training data: 0.11 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.3183
+Mean absolute error                1613233.4733
+Root mean squared error            2437970.8536
+Relative absolute error                 96.1587 %
+Root relative squared error             94.6685 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1 seconds
+Time taken to test model on training data: 0.11 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2755
+Mean absolute error                1697591.5136
+Root mean squared error            2509062.1055
+Relative absolute error                 99.2988 %
+Root relative squared error             96.7989 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.01 seconds
+Time taken to test model on training data: 0.09 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.3536
+Mean absolute error                1616948.2575
+Root mean squared error            2402651.573 
+Relative absolute error                 96.2466 %
+Root relative squared error             93.2658 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.1 seconds
+Time taken to test model on training data: 0.11 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.233 
+Mean absolute error                1685535.4458
+Root mean squared error            2517805.6512
+Relative absolute error                 97.8966 %
+Root relative squared error             96.4147 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1 seconds
+Time taken to test model on training data: 0.09 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2061
+Mean absolute error                1652933.394 
+Root mean squared error            2532174.233 
+Relative absolute error                 98.3487 %
+Root relative squared error             98.2677 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.12 seconds
+Time taken to test model on training data: 0.11 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2498
+Mean absolute error                1663929.8919
+Root mean squared error            2502285.7291
+Relative absolute error                 98.3311 %
+Root relative squared error             96.8123 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.09 seconds
+Time taken to test model on training data: 0.11 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.294 
+Mean absolute error                1687789.3826
+Root mean squared error            2491851.8832
+Relative absolute error                100.3865 %
+Root relative squared error             96.3304 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.02 seconds
+Time taken to test model on training data: 0.12 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2817
+Mean absolute error                1651472.3611
+Root mean squared error            2471755.0346
+Relative absolute error                 97.9486 %
+Root relative squared error             95.8455 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 0.95 seconds
+Time taken to test model on training data: 0.09 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2407
+Mean absolute error                1677648.5328
+Root mean squared error            2545317.0303
+Relative absolute error                 99.5719 %
+Root relative squared error             98.0296 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.6 seconds
+Time taken to test model on training data: 0.16 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2641
+Mean absolute error                1660693.5822
+Root mean squared error            2485510.2794
+Relative absolute error                 98.6028 %
+Root relative squared error             96.6828 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.07 seconds
+Time taken to test model on training data: 0.11 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2701
+Mean absolute error                1702173.8172
+Root mean squared error            2500232.0348
+Relative absolute error                101.3676 %
+Root relative squared error             97.2202 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.11 seconds
+Time taken to test model on training data: 0.18 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2559
+Mean absolute error                1700757.482 
+Root mean squared error            2529328.8574
+Relative absolute error                 99.9844 %
+Root relative squared error             97.1107 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.74 seconds
+Time taken to test model on training data: 0.31 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2535
+Mean absolute error                1664225.1124
+Root mean squared error            2512858.3249
+Relative absolute error                 98.3359 %
+Root relative squared error             97.0924 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.36 seconds
+Time taken to test model on training data: 0.14 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2541
+Mean absolute error                1712813.5601
+Root mean squared error            2576884.161 
+Relative absolute error                101.7848 %
+Root relative squared error            100.1936 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.06 seconds
+Time taken to test model on training data: 0.12 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.3524
+Mean absolute error                1598889.2067
+Root mean squared error            2403654.7952
+Relative absolute error                 95.2402 %
+Root relative squared error             93.3291 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.06 seconds
+Time taken to test model on training data: 0.11 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2486
+Mean absolute error                1666626.4385
+Root mean squared error            2560163.2375
+Relative absolute error                 97.898  %
+Root relative squared error             98.3784 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.04 seconds
+Time taken to test model on training data: 0.11 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.2001
+Mean absolute error                1675396.7429
+Root mean squared error            2549313.8497
+Relative absolute error                 98.9068 %
+Root relative squared error             98.7003 %
+Total Number of Instances              137     
+
+
+Options: -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.RandomForest -- -I 100 -K 0 -S 1 -num-slots 1 
+
+All the base classifiers: 
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1104583.0198
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1228145.242
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 936514.2121
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 582498.6977
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1086544.9109
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 990487.1202
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 1007808.4569
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 846541.079
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 733784.8039
+
+
+
+Random forest of 100 trees, each constructed while considering 6 random features.
+Out of bag error: 886289.5851
+
+
+
+
+
+Time taken to build model: 1.12 seconds
+Time taken to test model on training data: 0.11 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.9031
+Mean absolute error                 893709.1869
+Root mean squared error            1315372.5964
+Relative absolute error                 53.2001 %
+Root relative squared error             51.2486 %
+Total Number of Instances              137     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.3008
+Mean absolute error                1675983.2178
+Root mean squared error            2469431.7703
+Relative absolute error                 98.1815 %
+Root relative squared error             95.473  %
+Total Number of Instances              137     
+

@@ -19,7 +19,7 @@ class RestData(object):
         self.city_group = re.sub(' ','_',features[3])
         self._update('city_group', self.city_group)
 
-        self.rest_type = features[4]
+        self.rest_type = int(features[4] == 'FC')
         self._update('type', self.rest_type)
 
         self.p = [self.process_num(x) for x in features[5:]]
@@ -82,9 +82,9 @@ class DataAnalysis(object):
 
     def _get_weka_header(self,rel_name = 'train'):
         header_buffer = '@RELATION ' + rel_name + '\n\n'
-        header_buffer += '@ATTRIBUTE\tage\tINTEGER\n'
+        header_buffer += '@ATTRIBUTE\tage\tREAL\n'
         header_buffer += '@ATTRIBUTE\tcity_group\t{Big_Cities,Other}\n'
-        header_buffer += '@ATTRIBUTE\ttype\t{DT,FC,IL,MB}\n'
+        header_buffer += '@ATTRIBUTE\ttype\t{0,1}\n'
         feat_len = len(self.train_data[0].p)
         for i in range(feat_len):
             if type(self.train_data[0].p[i]) == type('string'):
@@ -100,9 +100,9 @@ class DataAnalysis(object):
     def _get_weka_body(self,data_list):
         body_buffer = ''
         for data in data_list:
-            body_buffer += str((data.age))+','
+            body_buffer += str(log10(data.age))+','
             body_buffer += data.city_group+','
-            body_buffer += data.rest_type+','
+            body_buffer += str(data.rest_type)+','
             p = [str((0+float(x))) for x in data.p]
             body_buffer += ','.join(p)
             body_buffer += ','+str(data.prediction)+'\n'
