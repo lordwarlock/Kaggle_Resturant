@@ -103,7 +103,7 @@ class DataAnalysis(object):
             body_buffer += str(data.age)+','
             body_buffer += data.city_group+','
             body_buffer += data.rest_type+','
-            p = [str(log10(x)) for x in data.p]
+            p = [str(log10(1+float(x))) for x in data.p]
             body_buffer += ','.join(p)
             body_buffer += ','+str(data.prediction)+'\n'
         return body_buffer
