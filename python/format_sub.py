@@ -2,8 +2,8 @@ __author__ = 'sleep'
 
 
 if __name__ == '__main__':
-    with open("prediction","r") as f_pre:
-        with open("pre_format.txt","w") as f_write:
+    with open("../prediction","r") as f_pre:
+        with open("../pre_format.txt","w") as f_write:
             f_write.write("Id,Prediction\n")
             for line in f_pre:
                 if line == '\n': continue
