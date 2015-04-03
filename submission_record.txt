@@ -1,1 +1,3 @@
-1   2213432.27739   bagging+linear regression in weka
+1	2213432.27739   bagging+linear regression in weka    04/03
+2   1889107.63382   log space random forest default in weka 04/03
+3	2115057.17690   bagging + linear regression + log space 04/03
