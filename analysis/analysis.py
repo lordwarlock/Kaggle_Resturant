@@ -1,4 +1,5 @@
 import re
+from numpy import log10
 
 class RestData(object):
     feat_dict = dict()
@@ -88,7 +89,7 @@ class DataAnalysis(object):
         for i in range(feat_len):
             if type(self.train_data[0].p[i]) == type('string'):
                 #header_buffer += '@ATTRIBUTE\tp'+str(i+1)+'\t{'+','.join(self.train_data[0].feat_dict['p'+str(i+1)])+'}\n'
-                header_buffer += '@ATTRIBUTE\tp'+str(i+1)+'\tINTEGER\n'
+                header_buffer += '@ATTRIBUTE\tp'+str(i+1)+'\tREAL\n'
             else:
                 header_buffer += '@ATTRIBUTE\tp'+str(i+1)+'\tREAL\n'
 
@@ -102,7 +103,7 @@ class DataAnalysis(object):
             body_buffer += str(data.age)+','
             body_buffer += data.city_group+','
             body_buffer += data.rest_type+','
-            p = [str(x) for x in data.p]
+            p = [str(log10(x)) for x in data.p]
             body_buffer += ','.join(p)
             body_buffer += ','+str(data.prediction)+'\n'
         return body_buffer
